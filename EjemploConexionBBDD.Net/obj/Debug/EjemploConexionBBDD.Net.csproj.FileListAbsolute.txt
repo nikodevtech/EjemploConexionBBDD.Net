@@ -1,0 +1,76 @@
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.exe.config
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.exe
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.pdb
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Npgsql.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Buffers.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Memory.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Json.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Channels.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.ValueTuple.dll
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Npgsql.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Buffers.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Memory.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Json.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Channels.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.ValueTuple.xml
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.AssemblyReference.cache
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.CoreCompileInputs.cache
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.CopyComplete
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.exe
+C:\Users\Puesto9\source\repos\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.pdb
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.exe.config
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.exe
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\EjemploConexionBBDD.Net.pdb
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Npgsql.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Buffers.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Memory.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Json.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Channels.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.ValueTuple.dll
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\Npgsql.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Buffers.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Memory.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Text.Json.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Channels.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\bin\Debug\System.ValueTuple.xml
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.AssemblyReference.cache
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.CoreCompileInputs.cache
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.csproj.CopyComplete
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.exe
+C:\Users\Puesto9\Desktop\DIW .NET\EjemploConexionBBDD.Net\EjemploConexionBBDD.Net\obj\Debug\EjemploConexionBBDD.Net.pdb
